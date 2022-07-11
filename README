@@ -1,0 +1,15 @@
+Key Bindings:
+	1. 3 To select the Urn
+	2. 4 to select the Sphere
+	3. 2 to deselect the object
+	4. i to enter illumination mode
+	5. 0/1 to off/on the light
+		-use x, X to translate light along x axis
+		-use y,Y  to translate light along y axis
+		-use z,Z  to translate light along z axis
+	6. s to change the shading on the selected object
+	7. Use arrow keys to translate a selected object
+	8. Use +/- to scale up/down the selected object
+
+Run the index.html file to run the application.
+
